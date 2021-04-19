@@ -6,6 +6,7 @@
 <a href="https://www.instagram.com/damiaaaanb/">
   <img align="left" alt="My Instagram" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
+
 <br>
 <br>
 
@@ -18,7 +19,7 @@ Hi there, I'm **Damián Bertoni**, a **Software Engineering** from Argenitna �
 **About Me!**
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning Machine Learning
+- 🌱 I’m currently learning GraphQL
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about anything 
