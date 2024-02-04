@@ -10,7 +10,7 @@
 <br>
 <br>
 
-Hi there, I'm **Damián Bertoni**, a **Software Engineer** from Argenitna 🧉
+Hi there, I'm **Damián Bertoni**, a **Software Engineer** from 🇦🇷 Argenitna 🧉
 <br>
 <br>
  
