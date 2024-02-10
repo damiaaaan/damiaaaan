@@ -1,4 +1,4 @@
-<h3 title="hehehe"> Hey 👋, I'm Damián!</h3>
+<h3 title=""> Hey 👋, I'm Damián!</h3>
 
 <a href="https://www.linkedin.com/in/damianbertoni/">
   <img align="left" alt="My LinkdeIn" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
